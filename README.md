@@ -1,4 +1,5 @@
 # Tic-tac-toe site with JavaScript
+ ![MIT License](https://img.shields.io/badge/license-MIT-blue)<br>
  <img src="./assets/home-page.jpg" width="500">.
  ### App: https://nicolaskleinaraujo.github.io/tic-tac-toe/
 # About
