@@ -14,8 +14,7 @@
  - CSS
 
  ### Implantation
- - Github Pages
- - App: https://nicolaskleinaraujo.github.io/tic-tac-toe/
+ - Website: https://nicolaskleinaraujo.github.io/tic-tac-toe/
 
 # Author
  Nicolas Klein Faria de Araujo <br>
